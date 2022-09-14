@@ -1,11 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using SQLite;
 
 
 namespace App_custo_viagem_com_SQLITE.Model
 {
-    public class Pedagio
+    public class pedagio
     {
         string _Localizacao;
         double _valor;
